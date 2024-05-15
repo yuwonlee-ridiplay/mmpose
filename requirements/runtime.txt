@@ -1,4 +1,4 @@
-chumpy
+-e git+https://github.com/nico-von-huene/chumpy.git
 json_tricks
 matplotlib
 munkres
